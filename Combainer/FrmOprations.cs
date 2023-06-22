@@ -107,7 +107,7 @@ namespace Combainer
         {
             string cfName;
             //System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
-            //PdfDocument targetDoc = new PdfDocument();
+            //PdfDocument targetDoc = new PdfDocument() tst;
 
             foreach (var pdf in pdfs)
             {
